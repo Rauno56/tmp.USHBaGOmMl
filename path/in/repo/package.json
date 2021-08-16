@@ -1,15 +1,17 @@
 {
-  "name": "tmp.ushbagomml",
-  "version": "1.3.0",
+  "name": "pkg-evcfchmutiq7d6yejz",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:rauno56/tmp.ushbagomml"
+    "url": "git@github.com:rauno56/tmp.ushbagomml",
+    "directory": "path/in/repo"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC"
 }
