@@ -1,0 +1,16 @@
+{
+  "name": "tmp.ushbagomml",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rauno56/tmp.ushbagomml",
+    "directory": "path/in/repo"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
